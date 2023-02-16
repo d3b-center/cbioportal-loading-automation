@@ -109,9 +109,9 @@ formatted as (
              -- 77316-1455_RNAseq_T_BS_HWGWYCY7 -> 77316-1455_RNAseq_400856
              -- 77316-1455_RNAseq_T_BS_HE0WJRW6 -> 77316-1455_RNAseq_994695
 
-             when sim.sample_id is not null and sm.composition = 'Derived Cell Line' then sm.sample_id || '_' || sm.experiment_strategy || '_CL_' || coalesce(sm.cell_line_type, 'NA')
-             -- 7316-1746_WGS_CL_BS_68TZMZH1 -> 7316-1746_WGS_CL_adh
-             -- 7316-1746_WGS_CL_BS_AFBPM6CN -> 7316-1746_WGS_CL_susp
+             when sim.sample_id is not null and sm.composition = 'Derived Cell Line' then sm.sample_id || '_' || sm.experiment_strategy || '_CL_' || coalesce(sm.cell_line_type, 'NA') || '_' || sm.external_aliquot_id
+             -- 7316-1746_WGS_CL_BS_68TZMZH1 -> 7316-1746_WGS_CL_adh_739839
+             -- 7316-1746_WGS_CL_BS_AFBPM6CN -> 7316-1746_WGS_CL_susp_739838
 
              when sim.sample_id is not null and sm.method_of_sample_procurement = 'Autopsy' then sm.sample_id || '_Autopsy_' || sm.external_aliquot_id
              -- 7316-3230_WGS_BS_EE73VE7V -> 7316-3230_WGS_Autopsy_SF5606-12
