@@ -1,0 +1,17 @@
+{
+    "_comment": "see https://docs.cbioportal.org/5.1-data-loading/data-loading/file-formats#cancer-study for detailed specifics",
+    "description": "Genomic characterization of Pediatric Brain Tumor Atlas samples provided by the <a href=\"http://cbtn.org\">Children's Brain Tumor Network</a>, the <a href=\"http://www.pnoc.us/\">Pacific Neuro-Oncology Consortium (PNOC)</a>, and its partners via the <a href=\"http://kidsfirstdrc.org\">Gabriella Miller Kids First Data Resource Center</a>. For updates, please see here: <a href=\"https://tinyurl.com/55cxz9am\">Release Notes</a>",
+    "groups": "PUBLIC",
+    "cancer_study_identifier": "x01_fy16_nbl_maris",
+    "type_of_cancer": "brain",
+    "short_name": "x01_fy16_nbl_maris",
+    "reference_genome": "hg38",
+    "display_name": "Pediatric Brain Tumor Atlas (PBTA, Provisional)",
+    "manifests": {
+        "x01_fy16_nbl_maris": {
+            "study_id":"SD_DYPMEHHF",
+            "table": "bix_genomics_file.sd_dypmehhf-genomics_file_manifest",
+            "file_type": ["RSEM_gene","annofuse_filtered_fusions_tsv","annotated_public_outputs","ctrlfreec_pval","ctrlfreec_info","ctrlfreec_bam_seg"]
+        }
+    }
+}

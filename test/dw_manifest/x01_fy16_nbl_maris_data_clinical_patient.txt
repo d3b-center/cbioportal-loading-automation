@@ -1,0 +1,374 @@
+#Patient Identifier	External Patient Identifier	SEX	RACE	ETHNICITY	AGE	AGE_IN_DAYS	OS_STATUS	OS_MONTHS
+#Patient identifier	Patient ID used by generator of data	Sex of the patient	racial demographic	ethnic demographic	Age at which the condition or disease was first diagnosed, in years	Patient age in days at initial diagnosis	Overall patient survival status	Overall survival in months since initial diagnosis
+#STRING	STRING	STRING	STRING	STRING	NUMBER	NUMBER	STRING	NUMBER
+#11	10	9	5	4	8	7	3	2
+PATIENT_ID	EXTERNAL_PATIENT_ID	SEX	RACE	ETHNICITY	AGE	AGE_IN_DAYS	OS_STATUS	OS_MONTHS
+PT_NK39AFPG	GMKF-30-PASWXG03	Male	Reported Unknown	Reported Unknown	2	741	DECEASED	30
+PT_KXWQXAR4	GMKF-30-PASKFM03	Male	White	Not Hispanic or Latino	0	127	LIVING	92
+PT_89D6BFGP	GMKF-30-PASVXS03	Male	White	Not Hispanic or Latino	0	2	LIVING	78
+PT_2JZNQGTR	GMKF-30-PASMGS03	Female	White	Not Hispanic or Latino	0	140	LIVING	101
+PT_AH8KV5MA	GMKF-30-PASJRT03	Female	White	Not Hispanic or Latino	2	741	LIVING	70
+PT_960WADVT	GMKF-30-PATJXV03	Female	White	Not Hispanic or Latino	0	8	LIVING	81
+PT_JBQT2QPG	GMKF-30-PATSIJ03	Male	White	Not Hispanic or Latino	2	1029	LIVING	107
+PT_6VJD1DSE	GMKF-30-PASAEJ03	Female	White	Not Hispanic or Latino	1	390	LIVING	113
+PT_ZH6HXBP3	GMKF-30-PASTWV03	Male	White	Not Hispanic or Latino	2	841	LIVING	118
+PT_QGQHP11T	GMKF-30-PATVYZ03	Female	Black or African American	Not Hispanic or Latino	3	1230	LIVING	111
+PT_DP679T4D	GMKF-30-PAUKLK03	Male	White	Not Hispanic or Latino	2	979	LIVING	95
+PT_P44YQ044	GMKF-30-PAUHSJ03	Male	White	Not Hispanic or Latino	2	933	LIVING	97
+PT_B9X3H54Y	GMKF-30-PASRTR03	Male	White	Not Hispanic or Latino	4	1616	LIVING	144
+PT_3YW2V4JK	GMKF-30-PASIUJ03	Female	Asian	Not Hispanic or Latino	1	567	LIVING	114
+PT_S700N3ZC	GMKF-30-PAVJTD03	Male	White	Reported Unknown	0	336	LIVING	58
+PT_66Y5KGME	GMKF-30-PASUEZ03	Male	White	Not Hispanic or Latino	0	21	LIVING	93
+PT_YHWENHB0	GMKF-30-PAUSJB03	Female	White	Not Hispanic or Latino	1	549	LIVING	77
+PT_NSH5WBQ7	GMKF-30-PATSSA03	Male	White	Not Hispanic or Latino	3	1291	LIVING	113
+PT_YJ8KZG27	GMKF-30-PASFCG03	Male	White	Not Hispanic or Latino	0	148	LIVING	97
+PT_T19BHWWN	GMKF-30-PAUIWS03	Female	White	Not Hispanic or Latino	2	925	LIVING	96
+PT_9R5Y63KX	GMKF-30-PAUUHH03	Female	White	Not Hispanic or Latino	1	433	LIVING	74
+PT_FW0K9SXK	GMKF-30-PAURJG03	Male	White	Not Hispanic or Latino	0	31	LIVING	54
+PT_JM9BMHPY	GMKF-30-PATPXF03	Female	White	Not Hispanic or Latino	0	1	LIVING	73
+PT_2M970JK9	GMKF-30-PASGBE03	Female	White	Not Hispanic or Latino	3	1338	DECEASED	92
+PT_6M0TPG4X	GMKF-30-PAUCIK03	Male	Black or African American	Not Hispanic or Latino	1	394	LIVING	38
+PT_58J0PB4V	GMKF-30-PAUYJS03	Female	White	Not Hispanic or Latino	0	291	LIVING	60
+PT_02SNWVRF	GMKF-30-PASNUI03	Female	White	Not Hispanic or Latino	3	1126	LIVING	121
+PT_QCMS0C3W	GMKF-30-PASZRF03	Female	White	Not Hispanic or Latino	3	1197	LIVING	79
+PT_D9XF79J4	GMKF-30-PASIIB03	Male	White	Not Hispanic or Latino	1	439	LIVING	106
+PT_CWHPERNP	GMKF-30-PATTFE03	Female	White	Not Hispanic or Latino	2	788	LIVING	93
+PT_571RCJF0	GMKF-30-PATVMF03	Male	White	Reported Unknown	0	292	LIVING	84
+PT_QH23VVKW	GMKF-30-PAUMJN03	Male	White	Not Hispanic or Latino	5	2078	LIVING	69
+PT_BVZANPYC	GMKF-30-PAVCPT03	Male	Reported Unknown	Not Hispanic or Latino	4	1495	LIVING	95
+PT_2Z8TVM1J	GMKF-30-PATKRP03	Female	White	Not Hispanic or Latino	0	191	LIVING	82
+PT_CZJ3ZTNW	GMKF-30-PATJGB03	Male	White	Not Hispanic or Latino	0	273	LIVING	85
+PT_WKPMAJM2	GMKF-30-PATEDT03	Female	White	Not Hispanic or Latino	0	159	LIVING	91
+PT_581CW7RN	GMKF-30-PAVFNX03	Male	Reported Unknown	Not Hispanic or Latino	1	378	LIVING	58
+PT_HRA0DTVB	GMKF-30-PAUWTC03	Female	Black or African American	Not Hispanic or Latino	1	598	DECEASED	43
+PT_80YPRJNE	GMKF-30-PASFNY03	Female	White	Not Hispanic or Latino	2	945	LIVING	96
+PT_N8YGNN8S	GMKF-30-PAUEKP03	Male	White	Not Hispanic or Latino	1	603	LIVING	84
+PT_3RH4V7PW	GMKF-30-PATYGV03	Male	White	Not Hispanic or Latino	3	1279	LIVING	104
+PT_TTHE7B08	GMKF-30-PAUCRL03	Female	White	Not Hispanic or Latino	2	1010	LIVING	95
+PT_S4EJKTME	GMKF-30-PASWMY03	Female	Black or African American	Not Hispanic or Latino	1	708	LIVING	105
+PT_RJPEMEQV	GMKF-30-PATTHB03	Female	White	Not Hispanic or Latino	1	691	LIVING	92
+PT_WWQGABFP	GMKF-30-PASAGA03	Female	White	Not Hispanic or Latino	1	468	LIVING	20
+PT_1NDSW1JX	GMKF-30-PAULMT03	Female	White	Not Hispanic or Latino	3	1280	LIVING	107
+PT_5BJXQ731	GMKF-30-PATXKG03	Female	White	Not Hispanic or Latino	1	704	LIVING	93
+PT_E9WFKVEN	GMKF-30-PASXVW03	Female	White	Reported Unknown	0	209	LIVING	87
+PT_TC82CMH5	GMKF-30-PATHJZ03	Female	White	Not Hispanic or Latino	0	340	DECEASED	80
+PT_ESKA5P5B	GMKF-30-PASYYZ03	Male	White	Not Hispanic or Latino	4	1618	LIVING	128
+PT_B9CP3H35	GMKF-30-PAUPNR03	Female	Reported Unknown	Reported Unknown	0	19	LIVING	51
+PT_5V8MX9JF	GMKF-30-PAUTLP03	Male	White	Not Hispanic or Latino	1	469	DECEASED	17
+PT_XPGEBQKA	GMKF-30-PATCFL03	Male	White	Not Hispanic or Latino	2	1041	LIVING	120
+PT_JYRSHSWJ	GMKF-30-PATXTF03	Male	White	Not Hispanic or Latino	0	3	LIVING	72
+PT_7XV9SBKQ	GMKF-30-PAUFHY03	Female	White	Not Hispanic or Latino	3	1160	LIVING	97
+PT_1RGF8S47	GMKF-30-PASKCS03	Female	White	Not Hispanic or Latino	0	99	LIVING	94
+PT_6R3RJ6MY	GMKF-30-PATZRF03	Male	White	Not Hispanic or Latino	0	189	DECEASED	35
+PT_F8GBEBH4	GMKF-30-PATNZR03	Male	Reported Unknown	Reported Unknown	0	43	LIVING	66
+PT_4FTZAAC4	GMKF-30-PATLSY03	Male	White	Not Hispanic or Latino	4	1820	LIVING	139
+PT_P7V330C5	GMKF-30-PAUVPT03	Female	White	Not Hispanic or Latino	0	338	LIVING	59
+PT_V65ESGCE	GMKF-30-PATTNX03	Male	White	Not Hispanic or Latino	0	201	LIVING	83
+PT_4W8PD8TR	GMKF-30-PATNXJ03	Female	Asian	Not Hispanic or Latino	0	211	LIVING	85
+PT_22BQQFYM	GMKF-30-PARYEH03	Female	White	Not Hispanic or Latino	0	201	LIVING	103
+PT_9WX4WBRB	GMKF-30-PAUXSV03	Male	White	Not Hispanic or Latino	0	200	LIVING	60
+PT_WWRAC6EH	GMKF-30-PATWDV03	Female	White	Reported Unknown	1	505	LIVING	79
+PT_ECFBP1W1	GMKF-30-PASCJV03	Male	Reported Unknown	Not Hispanic or Latino	0	166	LIVING	94
+PT_3HQASPVD	GMKF-30-PASUCB03	Male	White	Not Hispanic or Latino	2	1008	LIVING	111
+PT_PC1RR6WG	GMKF-30-PASSZI03	Female	White	Not Hispanic or Latino	0	228	LIVING	98
+PT_V3BXBVVV	GMKF-30-PAULZB03	Male	Asian	Not Hispanic or Latino	0	66	LIVING	23
+PT_M5EFHVEJ	GMKF-30-PATGLU03	Male	White	Not Hispanic or Latino	2	1037	DECEASED	77
+PT_3WF5J3PZ	GMKF-30-PASPGB03	Male	White	Not Hispanic or Latino	1	458	LIVING	105
+PT_7APMD0HG	GMKF-30-PAUGJI03	Female	Reported Unknown	Reported Unknown	0	327	DECEASED	26
+PT_9X3MV3GW	GMKF-30-PASSWW03	Male	White	Not Hispanic or Latino	0	8	LIVING	94
+PT_HB9JT4G5	GMKF-30-PAVKRF03	Female	White	Not Hispanic or Latino	0	205	LIVING	52
+PT_53M7K3JE	GMKF-30-PASXRJ03	Female	White	Not Hispanic or Latino	1	583	LIVING	103
+PT_Q77S4ZP7	GMKF-30-PATVVB03	Male	White	Not Hispanic or Latino	0	257	LIVING	73
+PT_2RYGN4KH	GMKF-30-PATMRZ03	Male	White	Not Hispanic or Latino	2	1023	LIVING	108
+PT_BQCKFXJJ	GMKF-30-PAULBY03	Female	Reported Unknown	Reported Unknown	1	370	LIVING	74
+PT_SDPQ63J1	GMKF-30-PAVIZV03	Female	White	Not Hispanic or Latino	3	1148	DECEASED	50
+PT_YPK89ADE	GMKF-30-PASBHS03	Female	Black or African American	Not Hispanic or Latino	1	416	LIVING	39
+PT_1EQHANKW	GMKF-30-PASCWD03	Male	White	Not Hispanic or Latino	0	133	LIVING	107
+PT_M6QAJFS8	GMKF-30-PASGGD03	Female	White	Not Hispanic or Latino	0	329	LIVING	93
+PT_GMBSHHCM	GMKF-30-PASREV03	Male	White	Not Hispanic or Latino	NA	NA	NA	NA
+PT_4Y3P2N1P	GMKF-30-PAVCLX03	Male	White	Not Hispanic or Latino	0	110	LIVING	59
+PT_RMH6RJ1P	GMKF-30-PATBHY03	Female	White	Not Hispanic or Latino	0	319	LIVING	89
+PT_SPZNB4QW	GMKF-30-PAVBAI03	Male	White	Not Hispanic or Latino	2	757	LIVING	77
+PT_5W51TAZS	GMKF-30-PASAVJ03	Male	Black or African American	Not Hispanic or Latino	0	11	LIVING	93
+PT_6WE8JADD	GMKF-30-PAVDFW03	Male	White	Not Hispanic or Latino	3	1210	LIVING	87
+PT_ZK8Z4WAK	GMKF-30-PASDDP03	Male	White	Not Hispanic or Latino	0	283	LIVING	69
+PT_6DHGCDRP	GMKF-30-PATJDG03	Male	White	Not Hispanic or Latino	NA	NA	NA	NA
+PT_MGTZ733G	GMKF-30-PAUEWF03	Male	White	Not Hispanic or Latino	0	147	LIVING	59
+PT_XDPN4357	GMKF-30-PASFXC03	Male	Black or African American	Not Hispanic or Latino	0	141	LIVING	98
+PT_D1837NS6	GMKF-30-PAUALH03	Male	White	Not Hispanic or Latino	0	49	LIVING	74
+PT_2HCWZNTR	GMKF-30-PATGIW03	Female	White	Not Hispanic or Latino	3	1348	LIVING	52
+PT_PVVVQWAV	GMKF-30-PAURCX03	Female	White	Not Hispanic or Latino	2	978	LIVING	84
+PT_C6429DZZ	GMKF-30-PASZJB03	Female	White	Not Hispanic or Latino	0	131	LIVING	82
+PT_ZS5D8MVF	GMKF-30-PARWEV03	Female	White	Not Hispanic or Latino	1	494	LIVING	114
+PT_R07QYFJ0	GMKF-30-PATVHJ03	Female	White	Not Hispanic or Latino	1	429	LIVING	67
+PT_EKP4F49T	GMKF-30-PATCVK03	Male	Reported Unknown	Reported Unknown	3	1326	LIVING	53
+PT_70BK6DFW	GMKF-30-PATIRK03	Female	White	Not Hispanic or Latino	2	885	LIVING	111
+PT_VJ7NKBKF	GMKF-30-PAVDAS03	Female	White	Not Hispanic or Latino	2	859	LIVING	80
+PT_6TM0T48Z	GMKF-30-PAUWBU03	Female	White	Not Hispanic or Latino	0	140	LIVING	63
+PT_534V39HR	GMKF-30-PAUNBM03	Male	White	Not Hispanic or Latino	0	156	LIVING	59
+PT_N6HJ3D18	GMKF-30-PAUAZA03	Female	White	Not Hispanic or Latino	1	699	LIVING	94
+PT_E3R0MRXN	GMKF-30-PASXSJ03	Female	White	Not Hispanic or Latino	0	231	LIVING	92
+PT_G3Q35987	GMKF-30-PASLPG03	Male	Reported Unknown	Reported Unknown	2	777	LIVING	91
+PT_05ZMZBF7	GMKF-30-PASRVD03	Male	White	Not Hispanic or Latino	3	1280	DECEASED	60
+PT_P2M0Q2KS	GMKF-30-PASDYT03	Male	Reported Unknown	Not Hispanic or Latino	1	676	LIVING	114
+PT_5CZHK9CR	GMKF-30-PASDPN03	Female	Reported Unknown	Reported Unknown	4	1520	LIVING	84
+PT_GQBEY0JD	GMKF-30-PAUUHY03	Male	White	Not Hispanic or Latino	0	71	LIVING	61
+PT_BQBJFWKZ	GMKF-30-PAUWWM03	Male	White	Not Hispanic or Latino	0	149	LIVING	49
+PT_2J439YFM	GMKF-30-PASHEL03	Male	White	Not Hispanic or Latino	0	181	DECEASED	39
+PT_C3YC0C9Q	GMKF-30-PASAHC03	Female	White	Not Hispanic or Latino	1	518	LIVING	115
+PT_81RSHW1D	GMKF-30-PAUUTW03	Female	Asian	Reported Unknown	1	421	LIVING	73
+PT_09KT7R82	GMKF-30-PATNZJ03	Male	White	Not Hispanic or Latino	2	747	LIVING	98
+PT_K3QMVST1	GMKF-30-PATKGB03	Male	White	Not Hispanic or Latino	0	177	LIVING	79
+PT_KRHMQFFP	GMKF-30-PATDCJ03	Male	White	Not Hispanic or Latino	0	201	LIVING	93
+PT_P9QJMTF8	GMKF-30-PATPFG03	Female	White	Not Hispanic or Latino	4	1685	LIVING	127
+PT_06Z51EN5	GMKF-30-PAUTRA03	Male	White	Not Hispanic or Latino	1	571	DECEASED	71
+PT_AYDJYMNE	GMKF-30-PARVZT03	Female	White	Not Hispanic or Latino	2	782	LIVING	122
+PT_BZCXTAH9	GMKF-30-PATUPN03	Female	White	Not Hispanic or Latino	1	559	LIVING	85
+PT_M5DS088E	GMKF-30-PAUTFB03	Female	Asian	Not Hispanic or Latino	3	1337	LIVING	72
+PT_QAVF4650	GMKF-30-PASJWG03	Male	White	Not Hispanic or Latino	2	906	LIVING	126
+PT_WKB163P6	GMKF-30-PAUIDD03	Male	White	Not Hispanic or Latino	1	517	LIVING	73
+PT_3TE71Z5R	GMKF-30-PAUGVU03	Female	White	Not Hispanic or Latino	0	7	LIVING	59
+PT_GSWXPFPQ	GMKF-30-PAVKZC03	Male	White	Not Hispanic or Latino	4	1712	LIVING	105
+PT_A4VM4H5N	GMKF-30-PASUVU03	Female	White	Reported Unknown	2	964	LIVING	114
+PT_00Y8C0XA	GMKF-30-PAUDEK03	Female	White	Not Hispanic or Latino	2	1037	DECEASED	41
+PT_6HZH56MX	GMKF-30-PAVFAP03	Male	White	Not Hispanic or Latino	0	44	LIVING	49
+PT_AE9Q9RMT	GMKF-30-PATRNL03	Male	White	Not Hispanic or Latino	1	454	LIVING	93
+PT_XNDPC9TT	GMKF-30-PATDWR03	Female	White	Not Hispanic or Latino	2	835	LIVING	105
+PT_TKJ2ZKW6	GMKF-30-PATTFS03	Male	White	Not Hispanic or Latino	0	140	LIVING	75
+PT_ASJZTDRF	GMKF-30-PAUGVZ03	Female	White	Not Hispanic or Latino	4	1614	LIVING	118
+PT_6QEWC9VV	GMKF-30-PATZZJ03	Female	White	Not Hispanic or Latino	0	6	LIVING	51
+PT_PV869ZYE	GMKF-30-PATDKL03	Male	White	Not Hispanic or Latino	5	1871	LIVING	148
+PT_YMDFCE4V	GMKF-30-PAVNLK03	Female	White	Not Hispanic or Latino	4	1559	LIVING	97
+PT_8BYCCC0V	GMKF-30-PASVYV03	Male	White	Not Hispanic or Latino	0	307	LIVING	95
+PT_S2GDB8WM	GMKF-30-PASPIU03	Male	White	Not Hispanic or Latino	2	732	DECEASED	73
+PT_E7PFZT6E	GMKF-30-PATNUK03	Male	White	Not Hispanic or Latino	1	422	LIVING	83
+PT_FZ3XEWEK	GMKF-30-PAUVML03	Female	White	Not Hispanic or Latino	2	744	LIVING	80
+PT_CJQZ6DQ9	GMKF-30-PATFCY03	Male	White	Not Hispanic or Latino	2	1040	DECEASED	60
+PT_ART6DAKP	GMKF-30-PAURFH03	Female	White	Not Hispanic or Latino	0	81	LIVING	59
+PT_GERVNCVY	GMKF-30-PASVCK03	Female	White	Not Hispanic or Latino	3	1227	LIVING	128
+PT_WG51EA8V	GMKF-30-PATYWG03	Male	White	Not Hispanic or Latino	1	381	LIVING	77
+PT_NKCCHP86	GMKF-30-PAUAEK03	Male	White	Not Hispanic or Latino	0	37	LIVING	54
+PT_KBVX8B37	GMKF-30-PATSCT03	Male	White	Not Hispanic or Latino	0	30	LIVING	45
+PT_Y18W73AA	GMKF-30-PATTWT03	Male	White	Not Hispanic or Latino	1	382	LIVING	89
+PT_NBFP0BB7	GMKF-30-PAUFSZ03	Female	White	Not Hispanic or Latino	2	1063	LIVING	81
+PT_92RR9C8D	GMKF-30-PAUWHB03	Female	White	Not Hispanic or Latino	0	174	LIVING	55
+PT_YGW6KQHQ	GMKF-30-PASCDX03	Female	White	Not Hispanic or Latino	1	652	DECEASED	27
+PT_EHQ50Y19	GMKF-30-PASJUU03	Male	White	Not Hispanic or Latino	0	3	LIVING	93
+PT_APMAKP20	GMKF-30-PASKZT03	Female	White	Not Hispanic or Latino	2	1076	LIVING	127
+PT_9ADRYWZN	GMKF-30-PAUCMD03	Female	White	Not Hispanic or Latino	0	331	LIVING	70
+PT_Q3BE4B28	GMKF-30-PATMZJ03	Female	White	Not Hispanic or Latino	3	1309	LIVING	118
+PT_86NG4W76	GMKF-30-PASWEE03	Male	White	Not Hispanic or Latino	0	41	LIVING	90
+PT_1X9YQF9W	GMKF-30-PASMUB03	Male	White	Reported Unknown	0	81	LIVING	96
+PT_GA9F5STK	GMKF-30-PATYNP03	Male	White	Not Hispanic or Latino	0	31	LIVING	75
+PT_K0BJPWY9	GMKF-30-PATVRG03	Female	White	Not Hispanic or Latino	0	299	LIVING	55
+PT_2FB9C15K	GMKF-30-PATEEE03	Male	White	Reported Unknown	2	814	LIVING	112
+PT_82D2FJV2	GMKF-30-PATWPL03	Female	White	Not Hispanic or Latino	0	8	LIVING	72
+PT_M8RHAK5K	GMKF-30-PARVPD03	Female	White	Not Hispanic or Latino	1	501	LIVING	104
+PT_VBCBTJSX	GMKF-30-PATSEC03	Female	Reported Unknown	Not Hispanic or Latino	1	591	LIVING	89
+PT_CXKF9G67	GMKF-30-PAVJMA03	Female	Black or African American	Not Hispanic or Latino	0	337	LIVING	30
+PT_21PJ8R0Z	GMKF-30-PATLFX03	Female	White	Not Hispanic or Latino	0	85	LIVING	80
+PT_EXZSSRGH	GMKF-30-PASNHY03	Male	White	Not Hispanic or Latino	2	1081	LIVING	131
+PT_82D32MJ7	GMKF-30-PATBHL03	Male	White	Not Hispanic or Latino	2	936	LIVING	104
+PT_1396H6SD	GMKF-30-PAVHEU03	Male	White	Not Hispanic or Latino	1	395	LIVING	61
+PT_HZQ6TWR9	GMKF-30-PARZCJ03	Male	White	Not Hispanic or Latino	0	243	LIVING	109
+PT_E2TWT2GF	GMKF-30-PATXGG03	Male	White	Not Hispanic or Latino	1	462	LIVING	76
+PT_10KTTTPD	GMKF-30-PARUZA03	Male	White	Not Hispanic or Latino	0	5	LIVING	85
+PT_56ZM694R	GMKF-30-PATLBP03	Male	White	Not Hispanic or Latino	0	203	LIVING	49
+PT_W8YP4A9W	GMKF-30-PASIIU03	Female	White	Reported Unknown	2	785	LIVING	117
+PT_KWRFGRER	GMKF-30-PARTRP03	Female	White	Not Hispanic or Latino	2	939	LIVING	133
+PT_4WVGKQRX	GMKF-30-PATBGF03	Male	White	Not Hispanic or Latino	4	1525	DECEASED	108
+PT_VVVS471N	GMKF-30-PASXWF03	Female	White	Not Hispanic or Latino	2	992	LIVING	118
+PT_R3TANMSJ	GMKF-30-PAUAKC03	Male	White	Not Hispanic or Latino	1	504	LIVING	80
+PT_9DD8F0VD	GMKF-30-PAVIAZ03	Female	American Indian or Alaska Native	Not Hispanic or Latino	5	2011	LIVING	85
+PT_SV8ETF29	GMKF-30-PAUYFR03	Male	White	Not Hispanic or Latino	1	381	LIVING	20
+PT_JN9VAXMK	GMKF-30-PAUFKP03	Male	White	Not Hispanic or Latino	4	1715	LIVING	121
+PT_CKH045NK	GMKF-30-PATYRV03	Male	White	Not Hispanic or Latino	1	499	LIVING	78
+PT_49FZV0HC	GMKF-30-PARXPD03	Male	White	Not Hispanic or Latino	0	291	LIVING	113
+PT_VFA7WN6G	GMKF-30-PATDZM03	Female	White	Not Hispanic or Latino	0	64	LIVING	85
+PT_WSQ011Z1	GMKF-30-PATCMD03	Female	White	Reported Unknown	3	1306	LIVING	129
+PT_TAJJ9MYY	GMKF-30-PASGRL03	Male	White	Not Hispanic or Latino	1	658	LIVING	119
+PT_NPNW1RSB	GMKF-30-PAUBVN03	Male	White	Not Hispanic or Latino	2	1065	DECEASED	62
+PT_DCBZYQAX	GMKF-30-PAUPWN03	Female	Reported Unknown	Not Hispanic or Latino	0	241	LIVING	65
+PT_0XAWD5CE	GMKF-30-PASLIH03	Male	Black or African American	Not Hispanic or Latino	4	1567	LIVING	104
+PT_Q50YZ2T5	GMKF-30-PASXIE03	Male	White	Not Hispanic or Latino	2	837	LIVING	114
+PT_D508JGWE	GMKF-30-PASXRG03	Female	White	Reported Unknown	3	1278	LIVING	99
+PT_B39849MF	GMKF-30-PATLKI03	Female	White	Not Hispanic or Latino	3	1154	LIVING	120
+PT_HQ23GQ23	GMKF-30-PASRRY03	Male	White	Not Hispanic or Latino	0	13	LIVING	88
+PT_DS5XN67S	GMKF-30-PASBDN03	Male	White	Not Hispanic or Latino	0	47	LIVING	101
+PT_4A1B95TK	GMKF-30-PATMDE03	Female	Reported Unknown	Not Hispanic or Latino	3	1295	LIVING	118
+PT_V1HR5C5P	GMKF-30-PAVHWG03	Male	White	Not Hispanic or Latino	3	1260	LIVING	91
+PT_BPTCZH2H	GMKF-30-PATTTS03	Female	White	Not Hispanic or Latino	1	545	LIVING	92
+PT_E6CZS2KF	GMKF-30-PAVINE03	Male	White	Not Hispanic or Latino	0	300	LIVING	45
+PT_R2TRGY6N	GMKF-30-PASUTC03	Female	White	Not Hispanic or Latino	2	1068	LIVING	122
+PT_HYJB8Y4N	GMKF-30-PAVBLZ03	Male	White	Not Hispanic or Latino	0	58	LIVING	50
+PT_N8PKC3YS	GMKF-30-PATHYD03	Male	White	Not Hispanic or Latino	2	1030	LIVING	109
+PT_B0YZ0H85	GMKF-30-PAUJTY03	Female	White	Not Hispanic or Latino	1	597	LIVING	82
+PT_FKE049G2	GMKF-30-PAUXPT03	Male	White	Not Hispanic or Latino	0	122	LIVING	62
+PT_M3ECY57S	GMKF-30-PATFPK03	Female	White	Not Hispanic or Latino	NA	NA	NA	NA
+PT_8HFHWZH9	GMKF-30-PASFEU03	Female	White	Not Hispanic or Latino	2	968	LIVING	132
+PT_39TTDEKT	GMKF-30-PASLMN03	Male	White	Not Hispanic or Latino	0	9	LIVING	88
+PT_2G290D0G	GMKF-30-PATVKI03	Male	White	Not Hispanic or Latino	0	67	LIVING	40
+PT_H3GBG09Q	GMKF-30-PATSTU03	Female	White	Not Hispanic or Latino	2	859	LIVING	99
+PT_W6NSXFM5	GMKF-30-PAUAFH03	Male	White	Not Hispanic or Latino	2	1051	LIVING	104
+PT_7X4TQ0S0	GMKF-30-PATPIU03	Female	White	Not Hispanic or Latino	0	40	LIVING	34
+PT_K59VNJ70	GMKF-30-PATWED03	Male	Asian	Not Hispanic or Latino	0	49	DECEASED	4
+PT_5CPS8GNT	GMKF-30-PATUAI03	Female	White	Not Hispanic or Latino	0	20	LIVING	72
+PT_P1MTPZDE	GMKF-30-PATWAG03	Female	White	Not Hispanic or Latino	3	1303	DECEASED	98
+PT_VFRRM1BT	GMKF-30-PARTSE03	Male	White	Not Hispanic or Latino	0	190	LIVING	38
+PT_D5BYDHZ9	GMKF-30-PAUMFN03	Male	White	Not Hispanic or Latino	0	142	LIVING	68
+PT_2RZN4HR2	GMKF-30-PAUTFT03	Female	White	Not Hispanic or Latino	2	929	LIVING	90
+PT_GVWRN4EN	GMKF-30-PAUFYH03	Male	White	Not Hispanic or Latino	1	481	LIVING	79
+PT_W50HSNE2	GMKF-30-PAUCXF03	Male	White	Not Hispanic or Latino	0	124	LIVING	54
+PT_3VNMNFT6	GMKF-30-PAVAEE03	Male	White	Not Hispanic or Latino	4	1723	LIVING	80
+PT_1RH3DTPB	GMKF-30-PASTRD03	Female	White	Not Hispanic or Latino	1	381	LIVING	85
+PT_9K8VF0Z0	GMKF-30-PATETW03	Male	White	Not Hispanic or Latino	0	277	LIVING	70
+PT_CZ592107	GMKF-30-PASDNT03	Male	White	Not Hispanic or Latino	0	236	LIVING	106
+PT_XKZYFJZV	GMKF-30-PAVJEG03	Male	White	Not Hispanic or Latino	1	470	LIVING	63
+PT_QF2A2F08	GMKF-30-PAVALS03	Female	White	Not Hispanic or Latino	1	554	LIVING	72
+PT_QW5Q0G84	GMKF-30-PATBFN03	Female	White	Not Hispanic or Latino	2	860	LIVING	114
+PT_9GRB7EF0	GMKF-30-PASFEV03	Female	White	Not Hispanic or Latino	0	164	LIVING	96
+PT_77DSBXEM	GMKF-30-PASTVV03	Male	Black or African American	Not Hispanic or Latino	5	1947	LIVING	147
+PT_ZN26MRXC	GMKF-30-PAUIHH03	Male	White	Not Hispanic or Latino	0	194	DECEASED	17
+PT_ZFA74AD4	GMKF-30-PASFGD03	Female	Black or African American	Not Hispanic or Latino	0	343	LIVING	106
+PT_JF62ZBX8	GMKF-30-PASUMG03	Male	White	Not Hispanic or Latino	3	1194	LIVING	129
+PT_9NMNEV0Y	GMKF-30-PASZKE03	Male	White	Not Hispanic or Latino	0	32	DECEASED	1
+PT_11XN6CG5	GMKF-30-PAUKYI03	Female	White	Not Hispanic or Latino	0	310	LIVING	65
+PT_RSPKGFXS	GMKF-30-PATTCU03	Male	White	Not Hispanic or Latino	2	1060	DECEASED	98
+PT_KZ5XC7B6	GMKF-30-PAUDUM03	Female	White	Not Hispanic or Latino	0	138	LIVING	45
+PT_XNBJNRXJ	GMKF-30-PARYRJ03	Female	White	Not Hispanic or Latino	1	401	LIVING	116
+PT_ATQMV6B3	GMKF-30-PATUBI03	Female	White	Not Hispanic or Latino	0	249	LIVING	61
+PT_8DFBAQVQ	GMKF-30-PASTZR03	Female	White	Not Hispanic or Latino	0	200	DECEASED	35
+PT_J3VD4RFP	GMKF-30-PAUFIT03	Male	White	Not Hispanic or Latino	5	1834	LIVING	118
+PT_5430SSPY	GMKF-30-PATSSG03	Male	White	Not Hispanic or Latino	0	153	LIVING	83
+PT_CCC65GCE	GMKF-30-PAUXGR03	Male	White	Not Hispanic or Latino	1	427	LIVING	63
+PT_69AGBVQ5	GMKF-30-PATBMM03	Male	White	Not Hispanic or Latino	3	1112	LIVING	61
+PT_1SYR4TS5	GMKF-30-PATNBK03	Female	Black or African American	Not Hispanic or Latino	0	140	LIVING	62
+PT_NQJZD4B5	GMKF-30-PAUSUV03	Female	White	Not Hispanic or Latino	4	1538	LIVING	100
+PT_EDKKJV31	GMKF-30-PARXDW03	Female	White	Not Hispanic or Latino	0	174	LIVING	103
+PT_RZPRP3ZC	GMKF-30-PASYJF03	Female	White	Not Hispanic or Latino	0	288	LIVING	52
+PT_MKGEQ520	GMKF-30-PAVAHC03	Female	White	Not Hispanic or Latino	1	613	LIVING	74
+PT_VA8GM98Z	GMKF-30-PATNWM03	Female	White	Not Hispanic or Latino	1	409	LIVING	91
+PT_HC1QFR28	GMKF-30-PATFTR03	Male	White	Not Hispanic or Latino	0	193	LIVING	80
+PT_0SMDNDVT	GMKF-30-PATUGX03	Male	White	Not Hispanic or Latino	2	894	LIVING	95
+PT_618HQW8H	GMKF-30-PARUFS03	Male	White	Not Hispanic or Latino	0	73	LIVING	105
+PT_H2Q0BW73	GMKF-30-PATIIT03	Male	White	Not Hispanic or Latino	0	9	LIVING	79
+PT_W6AVZF18	GMKF-30-PASCGM03	Female	White	Not Hispanic or Latino	0	45	LIVING	92
+PT_K5709E5B	GMKF-30-PAUNTY03	Male	Asian	Not Hispanic or Latino	1	583	DECEASED	46
+PT_3EHH0G0S	GMKF-30-PAUYKM03	Female	White	Not Hispanic or Latino	1	412	LIVING	71
+PT_26E4RFYV	GMKF-30-PATTPC03	Female	White	Not Hispanic or Latino	1	414	LIVING	79
+PT_K36T4AMZ	GMKF-30-PATTDY03	Female	White	Not Hispanic or Latino	1	580	LIVING	88
+PT_3E2DBRZY	GMKF-30-PASGGI03	Female	White	Not Hispanic or Latino	0	16	LIVING	96
+PT_KX5R6KSM	GMKF-30-PATLDR03	Male	White	Not Hispanic or Latino	0	254	LIVING	65
+PT_V8AVBQGQ	GMKF-30-PATKPD03	Male	White	Reported Unknown	1	576	LIVING	90
+PT_8TSFEMRP	GMKF-30-PASZYY03	Female	White	Not Hispanic or Latino	1	494	DECEASED	30
+PT_1QVMT8CV	GMKF-30-PATWEJ03	Female	White	Not Hispanic or Latino	0	215	LIVING	44
+PT_H3QX7Y9N	GMKF-30-PAUCYI03	Male	White	Not Hispanic or Latino	2	758	LIVING	38
+PT_7BAFX5PZ	GMKF-30-PASFIC03	Male	White	Not Hispanic or Latino	0	52	LIVING	99
+PT_C32MGZSB	GMKF-30-PASLTC03	Male	Black or African American	Not Hispanic or Latino	2	740	LIVING	119
+PT_RVTVP55V	GMKF-30-PAVGYW03	Male	White	Reported Unknown	0	55	LIVING	51
+PT_RG7MMHFF	GMKF-30-PASKRS03	Male	Reported Unknown	Not Hispanic or Latino	1	474	LIVING	88
+PT_GV2XJJTP	GMKF-30-PASKIS03	Male	White	Not Hispanic or Latino	0	305	LIVING	97
+PT_K579G3KQ	GMKF-30-PAUNZM03	Male	White	Not Hispanic or Latino	0	142	LIVING	58
+PT_BZZY1BM4	GMKF-30-PASEWZ03	Male	White	Not Hispanic or Latino	1	424	LIVING	109
+PT_R94DDN50	GMKF-30-PAUPKS03	Female	White	Not Hispanic or Latino	0	82	LIVING	52
+PT_1YAJEAMJ	GMKF-30-PASMET03	Male	White	Not Hispanic or Latino	1	418	LIVING	99
+PT_9T3PYRRH	GMKF-30-PATXHB03	Male	Black or African American	Not Hispanic or Latino	1	414	LIVING	64
+PT_2Y7Q85BM	GMKF-30-PAUDFR03	Female	White	Not Hispanic or Latino	3	1120	LIVING	100
+PT_85396MB7	GMKF-30-PATBLZ03	Male	White	Not Hispanic or Latino	0	206	LIVING	79
+PT_HN4VD7D3	GMKF-30-PATSVA03	Female	Black or African American	Not Hispanic or Latino	1	713	LIVING	91
+PT_69EVASRX	GMKF-30-PATAAV03	Female	White	Reported Unknown	5	1895	DECEASED	89
+PT_ZW22K0YF	GMKF-30-PASZTC03	Male	Black or African American	Not Hispanic or Latino	1	699	LIVING	112
+PT_XPTE7785	GMKF-30-PATWTJ03	Female	White	Not Hispanic or Latino	1	384	LIVING	85
+PT_GMGNDRBJ	GMKF-30-PATIYR03	Male	White	Not Hispanic or Latino	0	251	LIVING	82
+PT_RS3TBZV5	GMKF-30-PASTWY03	Female	White	Not Hispanic or Latino	0	116	DECEASED	4
+PT_KWEJJM22	GMKF-30-PARZBH03	Male	White	Reported Unknown	0	263	LIVING	105
+PT_1MWZEHCT	GMKF-30-PASUMK03	Female	Black or African American	Not Hispanic or Latino	4	1464	LIVING	65
+PT_1PA8YT1W	GMKF-30-PASYIP03	Male	White	Not Hispanic or Latino	2	829	DECEASED	34
+PT_9KB3ESTZ	GMKF-30-PATNXK03	Male	White	Not Hispanic or Latino	0	212	LIVING	86
+PT_ECTDZ6QS	GMKF-30-PATWPC03	Male	White	Not Hispanic or Latino	4	1618	LIVING	81
+PT_64B8K70Y	GMKF-30-PASWYR03	Male	White	Not Hispanic or Latino	2	958	LIVING	119
+PT_XRCKXWQ3	GMKF-30-PASBPN03	Female	Reported Unknown	Reported Unknown	0	279	LIVING	111
+PT_J3X9NQ5F	GMKF-30-PASMIU03	Female	White	Not Hispanic or Latino	3	1179	LIVING	132
+PT_Z4S0193A	GMKF-30-PAULDT03	Female	White	Not Hispanic or Latino	0	37	LIVING	58
+PT_CV0FE3Z3	GMKF-30-PATSUB03	Female	White	Not Hispanic or Latino	0	181	LIVING	60
+PT_5FR1MCKJ	GMKF-30-PAUPNE03	Male	White	Not Hispanic or Latino	1	696	LIVING	79
+PT_GGJ9E0VV	GMKF-30-PAVLFB03	Female	White	Not Hispanic or Latino	0	1	LIVING	46
+PT_4XJZ1KCB	GMKF-30-PATMFH03	Male	White	Not Hispanic or Latino	3	1153	LIVING	111
+PT_YYGH8EMR	GMKF-30-PATSNC03	Female	White	Not Hispanic or Latino	0	196	LIVING	80
+PT_YF3QS9ME	GMKF-30-PATMVN03	Male	White	Not Hispanic or Latino	1	571	LIVING	88
+PT_MK375DCF	GMKF-30-PARYAG03	Male	White	Not Hispanic or Latino	1	410	LIVING	77
+PT_M4ETZ912	GMKF-30-PAUNST03	Female	White	Not Hispanic or Latino	0	139	LIVING	63
+PT_2DX56CE0	GMKF-30-PATUWG03	Female	White	Not Hispanic or Latino	3	1448	DECEASED	89
+PT_JQGFY0SK	GMKF-30-PASJBY03	Male	White	Not Hispanic or Latino	0	57	LIVING	95
+PT_F0QD1YWQ	GMKF-30-PAUEXM03	Male	Black or African American	Not Hispanic or Latino	2	870	LIVING	94
+PT_BXYKW39H	GMKF-30-PASTGD03	Male	White	Not Hispanic or Latino	2	926	DECEASED	48
+PT_AQS8CCAB	GMKF-30-PAVHGP03	Male	White	Not Hispanic or Latino	1	519	LIVING	66
+PT_MG3HP8D9	GMKF-30-PASUFD03	Female	White	Not Hispanic or Latino	1	532	LIVING	106
+PT_Z6BJMKXS	GMKF-30-PASYHS03	Female	White	Not Hispanic or Latino	1	454	LIVING	78
+PT_GKZ2ZN3Q	GMKF-30-PAUCXG03	Female	White	Not Hispanic or Latino	0	209	LIVING	55
+PT_3EHTTYB9	GMKF-30-PAUSLK03	Female	White	Not Hispanic or Latino	0	191	LIVING	63
+PT_ESWCNGKM	GMKF-30-PATIYD03	Male	White	Not Hispanic or Latino	1	538	LIVING	87
+PT_V1Q9W1NW	GMKF-30-PATYAU03	Female	White	Not Hispanic or Latino	2	1010	DECEASED	38
+PT_WBX2HBRH	GMKF-30-PAUPSP03	Female	White	Not Hispanic or Latino	0	70	LIVING	60
+PT_KBT22K39	GMKF-30-PASKWI03	Male	White	Not Hispanic or Latino	1	639	LIVING	109
+PT_HZ4VWQP5	GMKF-30-PATXKN03	Male	White	Not Hispanic or Latino	1	503	LIVING	80
+PT_V5JFER4D	GMKF-30-PATVKG03	Female	White	Not Hispanic or Latino	2	840	DECEASED	84
+PT_7069QR05	GMKF-30-PATVWA03	Male	White	Not Hispanic or Latino	4	1533	DECEASED	70
+PT_SZN83NXT	GMKF-30-PASYVV03	Female	White	Not Hispanic or Latino	1	432	LIVING	91
+PT_ASH4P45D	GMKF-30-PASFKX03	Male	White	Not Hispanic or Latino	0	270	LIVING	98
+PT_1X6CJ589	GMKF-30-PAVJEV03	Male	White	Not Hispanic or Latino	0	284	LIVING	51
+PT_SRAC0TXH	GMKF-30-PATBBF03	Male	Asian	Not Hispanic or Latino	0	198	LIVING	86
+PT_8RQQWAQR	GMKF-30-PAVBLT03	Female	White	Not Hispanic or Latino	0	168	LIVING	51
+PT_PFRE83H3	GMKF-30-PAUIRD03	Male	White	Not Hispanic or Latino	0	176	LIVING	28
+PT_HVN0K4HK	GMKF-30-PASHLP03	Female	Reported Unknown	Not Hispanic or Latino	0	91	LIVING	80
+PT_A77B7F2F	GMKF-30-PATSRY03	Female	White	Not Hispanic or Latino	0	355	LIVING	86
+PT_5FCYBT0S	GMKF-30-PAUIJR03	Female	White	Reported Unknown	0	165	LIVING	62
+PT_AGYJR7PZ	GMKF-30-PASXHE03	Male	Black or African American	Not Hispanic or Latino	3	1438	LIVING	128
+PT_WH6RANZQ	GMKF-30-PATNVA03	Female	White	Not Hispanic or Latino	4	1772	LIVING	61
+PT_HA7TBZ1V	GMKF-30-PATVKN03	Female	White	Not Hispanic or Latino	0	190	LIVING	81
+PT_0MVMPZKX	GMKF-30-PAUDFJ03	Female	White	Not Hispanic or Latino	2	1023	LIVING	97
+PT_QH6XA6D6	GMKF-30-PASKTB03	Female	White	Not Hispanic or Latino	3	1425	LIVING	135
+PT_9A9Q2YB3	GMKF-30-PATPPY03	Male	White	Not Hispanic or Latino	0	248	LIVING	81
+PT_X8N7GE8X	GMKF-30-PATSUL03	Male	Native Hawaiian or Other Pacific Islander	Not Hispanic or Latino	0	68	LIVING	76
+PT_5MA1YQ49	GMKF-30-PAUHXD03	Female	White	Not Hispanic or Latino	1	504	LIVING	81
+PT_PDYCQB6P	GMKF-30-PAUAEE03	Male	White	Not Hispanic or Latino	0	17	LIVING	61
+PT_2YBKT6RW	GMKF-30-PASFWL03	Female	White	Not Hispanic or Latino	0	185	LIVING	98
+PT_2QB9MP9J	GMKF-30-PAUJEJ03	Male	White	Not Hispanic or Latino	0	194	LIVING	73
+PT_YK5J3P8F	GMKF-30-PAUVTG03	Male	White	Not Hispanic or Latino	0	66	LIVING	50
+PT_NYMKWAZT	GMKF-30-PAUUWG03	Female	White	Not Hispanic or Latino	3	1373	LIVING	94
+PT_F8XH0T83	GMKF-30-PAVBIJ03	Male	White	Not Hispanic or Latino	0	25	LIVING	46
+PT_JD8FVX6G	GMKF-30-PATWIL03	Male	Reported Unknown	Reported Unknown	1	578	LIVING	91
+PT_AJ04JZ0D	GMKF-30-PASSFD03	Female	White	Not Hispanic or Latino	1	388	LIVING	101
+PT_2B1P785M	GMKF-30-PAUAZW03	Male	Black or African American	Not Hispanic or Latino	1	557	LIVING	68
+PT_KH0H9EZS	GMKF-30-PASJTA03	Male	White	Not Hispanic or Latino	0	359	LIVING	108
+PT_9FY64DE1	GMKF-30-PASRUT03	Male	White	Not Hispanic or Latino	0	300	LIVING	101
+PT_W6JHGQWM	GMKF-30-PASVPB03	Male	White	Not Hispanic or Latino	0	69	LIVING	83
+PT_F2AFSP66	GMKF-30-PAVINT03	Female	White	Not Hispanic or Latino	0	54	LIVING	49
+PT_YBAHTBXV	GMKF-30-PATWGR03	Male	White	Not Hispanic or Latino	2	1039	LIVING	108
+PT_ZT2NW6WA	GMKF-30-PAUCNL03	Female	White	Not Hispanic or Latino	0	92	LIVING	64
+PT_2AZNEYG9	GMKF-30-PASNII03	Female	White	Not Hispanic or Latino	0	45	LIVING	76
+PT_NZ3F3J67	GMKF-30-PATBCM03	Female	White	Not Hispanic or Latino	2	1012	LIVING	112
+PT_HS4P27SE	GMKF-30-PATRZM03	Male	White	Not Hispanic or Latino	1	509	DECEASED	88
+PT_1WETGRS9	GMKF-30-PAVFZW03	Male	White	Not Hispanic or Latino	1	703	LIVING	72
+PT_B6G3M86Y	GMKF-30-PAVKHD03	Female	White	Not Hispanic or Latino	0	189	LIVING	53
+PT_R8Q4HK6J	GMKF-30-PATFXV03	Female	White	Reported Unknown	1	648	DECEASED	31
+PT_QFYDG6MK	GMKF-30-PATNEA03	Female	White	Not Hispanic or Latino	3	1234	DECEASED	51
+PT_AE730SVH	GMKF-30-PASFHI03	Female	White	Not Hispanic or Latino	1	498	LIVING	109
+PT_7E6A5N3P	GMKF-30-PATLFF03	Male	White	Not Hispanic or Latino	1	470	LIVING	89
+PT_QZFYXPJK	GMKF-30-PASREY03	Female	White	Not Hispanic or Latino	0	79	LIVING	91
+PT_2E11C89R	GMKF-30-PASVCU03	Male	White	Not Hispanic or Latino	2	820	DECEASED	44
+PT_N4XC5V51	GMKF-30-PAUILS03	Male	White	Hispanic or Latino	0	56	LIVING	59
+PT_P111JVHP	GMKF-30-PAVMHB03	Female	White	Reported Unknown	3	1214	LIVING	77
+PT_KSSHMEV6	GMKF-30-PASXVY03	Male	American Indian or Alaska Native	Not Hispanic or Latino	5	1864	LIVING	136
+PT_9QQ37AWW	GMKF-30-PARUTJ03	Female	White	Not Hispanic or Latino	1	691	LIVING	28
+PT_GXE2MK6Q	GMKF-30-PASLTH03	Male	White	Not Hispanic or Latino	1	475	LIVING	111
+PT_GB3GPPWC	GMKF-30-PATYXS03	Male	White	Not Hispanic or Latino	0	158	LIVING	55
+PT_P31F6AR4	GMKF-30-PATJIV03	Female	White	Not Hispanic or Latino	1	530	LIVING	93
+PT_5E269C8Z	GMKF-30-PAUJRW03	Female	White	Not Hispanic or Latino	2	944	DECEASED	46
+PT_YS31MFW0	GMKF-30-PASSMV03	Female	White	Not Hispanic or Latino	0	196	LIVING	93
+PT_VC8M899A	GMKF-30-PATRVB03	Male	White	Not Hispanic or Latino	1	505	DECEASED	44
+PT_SBS3N6ZT	GMKF-30-PAUPMU03	Female	White	Not Hispanic or Latino	4	1570	LIVING	113
+PT_QTFX1JE8	GMKF-30-PATVER03	Male	White	Not Hispanic or Latino	1	476	LIVING	89
+PT_00QYKRAX	GMKF-30-PASTHB03	Female	White	Not Hispanic or Latino	2	921	LIVING	100
+PT_D4SZQV48	GMKF-30-PATFIK03	Female	Black or African American	Not Hispanic or Latino	0	8	LIVING	6
+PT_9RJY3GWC	GMKF-30-PASUCU03	Male	White	Not Hispanic or Latino	0	228	LIVING	95

@@ -1,0 +1,30 @@
+{
+    "sample_head": {
+      "table": "bix_workflows.data_clinical_sample_header"
+    },
+    "patient_head": {
+      "table": "bix_workflows.data_clinical_patient_header"
+    },
+    "bedtools": "bedtools",
+    "cp_only_script": "scripts/get_cbio_copy_only_num.pl",
+    "bed_genes": "refs/GRCh38.84.gtf_genes.bed",
+    "hugo_tsv": "refs/HUGO_EntrezID.tsv",
+    "entrez_tsv": "refs/EntrezGeneId_HugoGeneSymbol.tsv",
+    "rna_ext_list": {
+      "expression": "rsem.genes.results.gz",
+      "fusion": "annoFuse_filter.tsv"
+    },
+    "dna_ext_list": {
+      "mutation": "consensus_somatic.vep.maf", 
+      "copy_number": "controlfreec.CNVs.p.value.txt",
+      "seg": "controlfreec.seg"
+    },
+    "ens_gene_list":"refs/gencode27_gene_list.txt",
+    "cbioportal_validator": "/cbioportal/core/src/main/scripts/importer/validateData.py",
+    "cna_flag": 1,
+    "cnv_high_gain": 4,
+    "cnv_min_len": 50000,
+    "rna_flag": 1,
+    "cpus": 8,
+    "threads": 40
+  }

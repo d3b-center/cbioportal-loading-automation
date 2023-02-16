@@ -1,0 +1,37 @@
+- study_description
+    - A description of the cancer study, e.g., "Genomic characterization of Pediatric Brain Tumor Atlas samples provided by the Children's Brain Tumor Network, the Pacific Neuro-Oncology Consortium (PNOC), and its partners via theGabriella Miller Kids First Data Resource Center." 
+- display_name
+    - The name of the cancer study, e.g., "Pediatric Brain Tumor Atlas (PBTA, Provisional)".
+- short_name
+    - The name of the cancer study, e.g., "pbta_all".
+- groups
+    - Lists the user-groups that are allowed access to this study, e.g., "PUBLIC".
+- cancer_study_identifier
+    - A string used to uniquely identify this cancer study within the database, e.g., "pbta_all".
+- type_of_cancer
+    - The cancer type abbreviation, e.g., "brain". 
+- reference_genome
+    - The study reference genome (e.g. hg19, hg38).
+- study_manifest
+    - study name
+        - All studies in the D3b data warehouse
+            - PNOC
+            - DGD
+            - TARGET
+            - GH-FY19 Teachey
+            - CBTN
+            - CBTN-Oligo
+            - GH-FY16 Maris
+            - GH-FY18 Meshinchi
+            - GH-FY16 Mullighan
+            - INCLUDE Espinosa-HTP
+            - GH-FY15 Onel
+    - file types
+        - gene-expressions
+            - RSEM_gene
+        - copy-number-variations
+            - ctrlfreec_pval and ctrlfreec_info
+        - maf
+            - annotated_public_outputs
+        - fusion
+            - annofuse_filtered_fusions_tsv
