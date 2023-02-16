@@ -48,19 +48,54 @@ The whole process will setup in the Airflow.
     ```
 5. Import genomics files to Cavatica
     ```
-    python 04.import_files_cavatica.py -pjt_id -input_list test/dw_manifest/sd_dypmehhf-genomics_file_manifest.txt
+    python 04.import_files_cavatica.py \
+    -pjt_id xiaoyan-huang/pedcbioportal-dev \
+    -input_list test/dw_manifest/sd_dypmehhf-genomics_file_manifest.txt
 
     ```
 6. Run task to generate loading packages    
     1. Merge rsem, fusion, maf and cnv seg
         - workflow: `cwl/workflow/build_cbio_package_wf.cwl`
         - example: [cavatica task](https://cavatica.sbgenomics.com/u/xiaoyan-huang/pedcbioportal-dev/tasks/7c4bb5a6-9c8e-430f-958b-a3cb533233d1/)
+
+        ```
+        # merge seg 
+        python 05.generate_genomics_cbio_file.py \
+        -m test/dw_manifest/test_x01_fy16_nbl_maris_genomics_etl_file.txt \
+        -d default_config.json \
+        -s test/test_study_info.json \
+        -seq test/dw_manifest/x01_fy16_nbl_maris_sq_info_etl_resource.txt \
+        -ctrlfreec_bamseg_dir /path/to/ctrlfreec_seg \
+        -output test
+        ```
     2. Merge cnv data (controlfreec_info and controlfreec_pvalue)
         - workflow: `cwl/workflow/generate-cbio-cnv-wf.cwl`
         - example: [cavatica task](https://cavatica.sbgenomics.com/u/xiaoyan-huang/pedcbioportal-dev/tasks/f836a543-936e-498c-8c36-a6ceab5a3289/)
+
+        ```
+        # merge cnv (info,pvalue)
+        python 05.generate_merged_cnv_file.py \
+        -m test/dw_manifest/test_x01_fy16_nbl_maris_genomics_etl_file.txt \
+        -d default_config.json \
+        -s test/test_study_info.json \
+        -seq test/dw_manifest/x01_fy16_nbl_maris_sq_info_etl_resource.txt \
+        -ctrlfreec_info_dir /path/to/ctrlfreec_info \
+        -ctrlfreec_pval_dir /path/to/ctrlfreec_pval \
+        -output test
+        ```
     3. build cbio pacakge
         - workflow: `cwl/workflow/build-cbio-package-wf.cwl`
         - example: [cavatica task](https://cavatica.sbgenomics.com/u/xiaoyan-huang/pedcbioportal-dev/tasks/7973f632-6aa1-4360-b1e3-7e11539a6c2d/)
+
+        ```
+        python 06.build_cbio_package.py \
+        -c study_case_meta_config.json \
+        -d default_config.json \
+        -s test/test_study_info.json \
+        -merged_file_dir /path/to/merged_files \
+        -clinical_file_dir /path/to/clinical_files \
+        -o result
+        ```
 6. Export cbio package files to [s3 bucket](s3://kf-cbioportal-studies/public/)     
     (**WIP***)
 7. Run Jenkins job  
