@@ -1,0 +1,27 @@
+{
+    "description": "Genomic characterization of Pediatric Brain Tumor Atlas samples provided by the CHOP.",
+    "groups": "PUBLIC",
+    "cancer_study_identifier": "test2",
+    "type_of_cancer": "brain",
+    "short_name": "test2",
+    "reference_genome": "hg19",
+    "display_name": "Test2",
+    "manifests": {
+        "PNOC": {
+            "study_id": "SD_8Y99QZJJ",
+            "table": "bix_genomics_file.open-target-target-genomics_file_manifest",
+            "file_type": [
+                "gene-expressions",
+                "maf"
+            ]
+        },
+        "CBTN": {
+            "study_id": "SD_BHJXBDQK",
+            "table": "bix_genomics_file.sd_bhjxbdqk-genomics_file_manifest",
+            "file_type": [
+                "gene-expressions",
+                "maf"
+            ]
+        }
+    }
+}

@@ -1,0 +1,90 @@
+name: PedcBioportal study load request
+description: Request a new study PedcBioportal loading
+title: "Load PedcBioportal study:"
+labels: ["pedcbioportal","automation"]
+assignees:
+  - HuangXiaoyan0106
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Description
+        **This template is used to start a request to load or update a study onto the Kids First PedcBioPortal. Please fill out the following information, <span style="color:red"> *all are required*</span>, otherwise the automatic process cannot be triggered.**
+
+        ---
+  - type: textarea
+    id: study_description
+    attributes:
+      label: 1. Study Description
+      description: Give us a brief description of the study, like a short abstract with links, but mind the 1024 character limit in one line! e.g., "Genomic characterization of Pediatric Brain Tumor Atlas samples provided by the Children's Brain Tumor Network, the Pacific Neuro-Oncology Consortium (PNOC), and its partners via theGabriella Miller Kids First Data Resource Center." 
+      placeholder: Describe the study.
+    validations:
+      required: true
+  - type: textarea
+    id: display_name
+    attributes:
+      label: 2. Study Display Name
+      description: The name of the cancer study. e.g., "Pediatric Brain Tumor Atlas (PBTA, Provisional)".
+      placeholder: Study display name.
+    validations:
+      required: true
+  - type: textarea
+    id: cancer_study_identifier
+    attributes:
+      label: 3. Cancer Study Identifier
+      description: This is the short name that you create for the study. It will be the name of the study load folder and will be used by cBioportal to find all relevant information for that study. e.g., "pbta_all".
+      placeholder: Study short name.
+    validations:
+      required: true
+  - type: textarea
+    id: type_of_cancer
+    attributes:
+      label: 4. Type of Cancer
+      description: The cancer type abbreviation, e.g., "brain". 
+      placeholder: Type of cancer.
+    validations:
+      required: true
+  - type: dropdown
+    id: reference_genome
+    attributes:
+      label: 5. Reference Genome
+      description: The study reference genome (e.g. hg19, hg38).
+      multiple: false
+      options:
+        - hg19
+        - hg38
+    validations:
+      required: true
+  - type: textarea
+    id: study_name
+    attributes:
+      label: 6. Study Manifest
+      description: Which study manifests do you want to load? The genomics manifest of request study must be in the D3b datawarehouse, and must use the study name as defined in `bix_genomics_file.study_list_to_manifest` or provide the DW path of genomics manifest. If there are multiple manifests please separate them with commas(,).
+      placeholder: |
+        GH-FY18 Meshinchi, bix_genomics_file.sd_8y99qzjj-genomics_file_manifest
+    validations:
+      required: true
+  - type: dropdown
+    id: file_types
+    attributes:
+      label: 7. File Types
+      description: Which type of files you want to load? You may select more than one.
+      multiple: true
+      options:
+        - gene-expressions
+        - copy-number-variations
+        - maf
+        - fusion
+    validations:
+      required: true
+  - type: textarea
+    id: groups
+    attributes:
+      label: 8. Groups
+      description: These are access groups defined is cBioportal. Default is `PUBLIC`, but another can be named is restrictions are needed.  Need to work with Devops for custom groups.
+      placeholder: Access group (e.g. PUBLIC).
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "**Thanks for completing our form!**"

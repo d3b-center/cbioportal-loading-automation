@@ -3,6 +3,14 @@ In general, we are creating upload packages converting our data and metadata to 
 
 # The whole process
 The whole process will setup in the Airflow.    
+
+### Prerequisites
+1. Create a ticket using the `cbioportal-study-load-request.yml` template in `d3b-center/bixu-tracker`.
+2. Check ticket and genenerate study information JSON file by running `01.pull_ticket.py` and `02.generate_study_info.py`.
+    ```
+    python github_ticket/01.pull_ticket.py -r HuangXiaoyan0106/test-cbioportal -o .
+    python github_ticket/02.generate_study_info.py -o .
+    ```
 ### Generate cbio tables
 1. Prepare study info file  
     Example: `example_study_info.json`
